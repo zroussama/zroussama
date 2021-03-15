@@ -2,6 +2,7 @@ Hi there 👋
 Here are some ideas to get you started:
 
 🔭 I’m currently working on Java project
+
 🌱 I’m currently learning Highly Availability in Symfony
 👯 I’m looking to collaborate on community projects
 🤔 I’m looking for help with my community projects
