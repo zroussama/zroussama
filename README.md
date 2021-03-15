@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Java project
 
-🌱 I’m currently learning Highly Availability in Symfony
+🌱 I’m currently learning Highly Availability in Symfony /n
 👯 I’m looking to collaborate on community projects
 🤔 I’m looking for help with my community projects
 💬 Ask me about ETL, SQL & Data structures
