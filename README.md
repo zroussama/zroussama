@@ -1,6 +1,7 @@
 <h1 align="center">Hey there <img alt="wave" src="https://raw.githubusercontent.com/Elchedli/Elchedli/main/Hi.gif" width="35"> ! I am Chedli.<br> Nice to meet you!</h1>
 
-Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
+Welcome to my GitHub residence! 👋 
+Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
 <br/><br/>
 ### 👨🏻‍💻 &nbsp;About Me
 
