@@ -68,6 +68,8 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 <p align="center">
   <a href="https://github.com/zroussama">
 <p align="center">
-   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zroussama" alt="zroussama" /></a> </p>
+
+
+   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?zroussama=ryo-ma&margin-w=15" alt="zroussama" /></a> </p>
   </a>
 </p>
