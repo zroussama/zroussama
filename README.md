@@ -5,10 +5,10 @@ Here I love to occasionally post all the projects that I had a blast working on,
 <br/><br/>
 ### 👨🏻‍💻 &nbsp;About Me
 
-My name is Oussama ! I'm a passionate learner who's always willing to learn and work across technologies and domains💡. 
-I love to explore new technologies and leverage them to solve real-life problems✨. 
-Apart from that I also love to build something from what i've learnt👨🏻‍. 
-I’m looking to collaborate on Open Source Projects and Participate in Hackathons
+My name is Oussama ! I'm a passionate learner who's always willing to learn and work across technologies and domains💡. <br/>
+I love to explore new technologies and leverage them to solve real-life problems✨. <br/>
+Apart from that I also love to build something from what i've learnt👨🏻‍. <br/>
+I’m looking to collaborate on Open Source Projects and Participate in Hackathons. <br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
