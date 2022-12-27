@@ -60,7 +60,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/zroussama/count.svg" /></p>
 
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![<Quickdraw>](https://img.shields.io/badge/<Quickdraw>-<white>?style=for-the-badge&logo=<Quickdraw>&logoColor=<white>)
 
 <p align="center">
   <a href="https://github.com/zroussama">
