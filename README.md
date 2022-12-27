@@ -35,6 +35,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerBi)&nbsp;
+![Tableau](https://img.shields.io/badge/-tableau-05122A?style=flat&logo=tableau)&nbsp;
 ![SSIS](https://img.shields.io/badge/-SSIS-05122A?style=flat&logo=SSIS)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
@@ -60,7 +61,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 
 <p align="center">
   <a href="https://github.com/zroussama">
-    <img src="https://github-readme-stats.vercel.app/api?username=zroussama&count_private=true&hide_border=true&show_icons=true" alt="Elchedli's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zroussama&count_private=true&hide_border=true&show_icons=true" alt="Oussama's github stats">
   </a>
 </p>
 
