@@ -27,6 +27,7 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=Nodejs&logoColor=563D7C)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&logoColor=563D7C)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
  
  ### 🌱 &nbsp;I’m currently learning
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
@@ -37,7 +38,7 @@ My name is Chedli! I'm a passionate learner who's always willing to learn and wo
 
 <p align="center">
 <a href="https://www.zroussama.me"><img src="https://img.shields.io/badge/-zroussama.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:oussama.zribi@esprit.com"><img src="https://img.shields.io/badge/-Chedli.elloumi@esprit.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:oussama.zribi@esprit.com"><img src="https://img.shields.io/badge/-oussama.zribi@esprit.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/oh_zedd/"><img src="https://img.shields.io/badge/-@oh_zedd_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/zr.oussama"><img src="https://img.shields.io/badge/-@zr.oussama-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
