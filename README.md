@@ -34,6 +34,9 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerBi)&nbsp;
+![SSIS](https://img.shields.io/badge/-SSIS-05122A?style=flat&logo=SSIS)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
  
  ### 🌱 &nbsp;I’m currently learning
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
