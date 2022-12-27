@@ -37,6 +37,8 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
 ![electron](https://img.shields.io/badge/-electron-05122A?style=flat&logo=electron&logoColor=563D7C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=spark)&nbsp;
 
  ### 🤝🏻 &nbsp;Connect with Me
 
