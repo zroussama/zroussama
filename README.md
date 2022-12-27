@@ -32,6 +32,8 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&logoColor=563D7C)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerBi)&nbsp;
  
  ### 🌱 &nbsp;I’m currently learning
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
