@@ -46,6 +46,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=spark)&nbsp;
+![Laravel](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=laravel)&nbsp;
 
  ### 🤝🏻 &nbsp;Connect with Me
 
