@@ -63,7 +63,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 
 <p align="center">
   <a href="https://github.com/zroussama">
-    <img src="https://github-readme-stats.vercel.app/api?username=zroussama&count_private=true&hide_border=true&show_icons=true " alt="Oussama's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zroussama&count_private=true&hide_border=true&show_icons=true" alt="Oussama's github stats">
   </a>
 </p>
 
