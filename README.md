@@ -11,7 +11,7 @@ Apart from that I also love to build something from what i've learnt👨🏻‍.
 I’m looking to collaborate on Open Source Projects and Participate in Hackathons. <br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
+[![Open Source Helpers](https://www.codetriage.com/vercel/next.js/badges/users.svg)](https://www.codetriage.com/vercel/next.js)
 
 ### 🛠 &nbsp;Languages and Tools
 
