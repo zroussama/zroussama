@@ -4,7 +4,7 @@ Welcome to my GitHub residence! 👋
 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
 <br/><br/>
 ### 👨🏻‍💻 &nbsp;About Me
-
+<h3 align="center">Software Engineer | Full-Stack Developer | Data Enthusiast 🚀</h3>
 My name is Oussama ! I'm a passionate learner who's always willing to learn and work across technologies and domains💡. <br/>
 I love to explore new technologies and leverage them to solve real-life problems✨. <br/>
 Apart from that I also love to build something from what i've learnt👨🏻‍. <br/>
@@ -39,6 +39,11 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 ![SSIS](https://img.shields.io/badge/-SSIS-05122A?style=flat&logo=SSIS)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+
+### 🚀 Featured Projects
+- [Smart City Dashboard](https://github.com/zroussama/smart-city) – Real-time analytics for urban planning.
+- [CRM Automation Tool](https://github.com/zroussama/crm-automation) – Streamlined client portfolio management.
+- [Climate Impact Model](https://github.com/zroussama/climate-model) – Data science project predicting agricultural outcomes.
  
  ### 🌱 &nbsp;I’m currently learning
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
@@ -68,10 +73,18 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 </p>
 
 <p align="center">
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zroussama&count_private=true&hide_border=true&show_icons=true" alt="Oussama's github stats">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zroussama&margin-w=15" />
+</p>
+
   <a href="https://github.com/zroussama">
 <p align="center">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src= "https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15"> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=zroussama&margin-w=15" /></p>
   </a>
 </p>
  
