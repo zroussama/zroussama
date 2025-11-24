@@ -73,13 +73,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 </p>
 
 <p align="center">
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zroussama&count_private=true&hide_border=true&show_icons=true" alt="Oussama's github stats">
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zroussama&margin-w=15" />
-</p>
 
   <a href="https://github.com/zroussama">
 <p align="center">
