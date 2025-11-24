@@ -64,9 +64,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
 
 <br/><br/>
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/zroussama/count.svg" /></p>
-<img src="https://profile-counter.glitch.me/zroussama/count.svg" />
-![Visitor Count](https://hits.sh/github.com/zroussama.svg?style=flat-square)
-<img src="https://profile-counter.glitch.me/zroussama/count.svg" />
+
 <p align="center">
   <a href="https://github.com/zroussama">
     <img src="https://github-readme-stats.vercel.app/api?username=zroussama&count_private=true&hide_border=true&show_icons=true" alt="Oussama's github stats">
